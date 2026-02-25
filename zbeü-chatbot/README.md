@@ -38,7 +38,7 @@ export GEMINI_API_KEY=your-api-key-here
 ### 2. Uygulamayı Çalıştırma
 
 ```bash
-cd c:\Users\Cagatay.ok\Desktop\berkhocamladenemeler
+cd c:\Users\Cagatay.ok\Desktop\zbeü-chatbot
 go run main.go
 ```
 
@@ -155,7 +155,7 @@ zbeu-asistan.exe
 
 ## 👨‍💻 Geliştirici
 
-**CAGSOFT** - Baş Mimar  
+**Çağatay Ok** - Baş Mimar  
 Çağatay Ok için özel geliştirilmiştir.
 
 ## 📄 Lisans
@@ -164,4 +164,3 @@ Bu proje Çağatay Ok'un kişisel kullanımı için geliştirilmiştir.
 
 ---
 
-**Anti-Gravity Architecture** 🚀 - Hafif, hızlı, güçlü!
